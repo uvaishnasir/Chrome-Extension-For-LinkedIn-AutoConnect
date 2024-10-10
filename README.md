@@ -1,7 +1,3 @@
-Here's a sample `README.md` file for your LinkedIn connection automation Chrome extension project. The file includes details about the project, how to set it up, run it, and a brief description of the functionality.
-
----
-
 # LinkedIn Connection Automation Chrome Extension
 
 This Chrome extension automates sending connection requests on LinkedIn. It adds a "Connect with All" button to the LinkedIn **My Network** page, which, when clicked, sends connection requests to all visible profiles on the page. The extension includes a delay between each request to avoid being flagged as spam by LinkedIn.
